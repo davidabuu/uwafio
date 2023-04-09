@@ -1,12 +1,11 @@
 "use client";
-import Navbar from "@/src/compoments/Navbar";
-import UserWebLayout from "@/src/compoments/UserWebLayout";
+import Intro from "@/src/components/Intro";
+import Navbar from "@/src/components/Navbar";
 export default function Home() {
   return (
-    <UserWebLayout webtitle="Home Page">
-      <div className="font-sans img-bg bg-cover bg-center  h-screen">
-        <Navbar />
-      </div>
-    </UserWebLayout>
+    <div className="font-sans img-bg bg-cover bg-center  h-screen">
+      <Navbar />
+      <Intro />
+    </div>
   );
 }

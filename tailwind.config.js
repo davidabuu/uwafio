@@ -13,6 +13,9 @@ module.exports = {
       fontFamily: {
         sans: ["Montserrat Light", "Helvetica", "Arial", "sans-serif"],
       },
+      colors: {
+        'my-color': '#FFFFFFCC',
+      },
     },
   },
   plugins: [],
