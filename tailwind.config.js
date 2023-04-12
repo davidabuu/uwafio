@@ -15,6 +15,7 @@ module.exports = {
       },
       colors: {
         'my-color': '#FFFFFFCC',
+        'about-color': '#F4F4F4'
       },
     },
   },
