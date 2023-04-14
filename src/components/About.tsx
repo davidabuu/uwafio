@@ -4,7 +4,7 @@ import React, { FC } from "react";
 const About: FC = () => {
   return (
     <div
-      className="bg-about-color"
+      className="bg-about-color pb-10"
       data-aos="fade-right"
       data-aos-duration="400"
       id="about"

@@ -14,8 +14,9 @@ module.exports = {
         sans: ["Montserrat Light", "Helvetica", "Arial", "sans-serif"],
       },
       colors: {
-        'my-color': '#FFFFFFCC',
-        'about-color': '#F4F4F4'
+        "my-color": "#FFFFFFCC",
+        "about-color": "#F4F4F4",
+        "service-color": "#012C42",
       },
     },
   },
